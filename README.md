@@ -24,4 +24,5 @@ npm install @material-ui/icons
 ## Resource
 ## Youtube Video:
 [Building the ULTIMATE Gmail Clone with ReactJS Styled Components Part 1 of 3 | For Beginners](https://www.youtube.com/watch?v=b1x8mVCjGwE)   
+[Building the ULTIMATE Gmail Clone with ReactJS Styled Components Part 2 of 3 | For Beginners](https://www.youtube.com/watch?v=nHYbrCiN_ec&t=2s)
 [Source Code](https://github.com/CleverProgrammers/cp-live-gmail-clone/blob/master/src/components/layout/Sidebar.js)   
